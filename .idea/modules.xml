@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GetProjectByDetails.iml" filepath="$PROJECT_DIR$/GetProjectByDetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetDetailsByAadhaar.iml" filepath="$PROJECT_DIR$/GetDetailsByAadhaar.iml" />
     </modules>
   </component>
 </project>
